@@ -1,0 +1,28 @@
+<html><head>
+<title>TOP 3 COSAS QUE DIJO JOHN F. KENNEDY QUE LO LLEVARON A LA MUERTE</title>
+</head>
+
+<body bgcolor="24EFE6" text="black">
+<p><h4>Saludos a la grasa.....</h4></p>   
+<table border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+
+<p><center><h1>TOP 3 COSAS QUE DIJO JOHN F. KENNEDY QUE LO LLEVARON A LA MUERTE</h1></center></p> <p><h3><td><font color=black face="arial">John F. Kennedy o John Fitzgerald Kennedy Elegido en 1960, Kennedy se convirtió en el presidente más joven de su país, después de Theodore Roosevelt. Ejerció desde el 20 de enero de 1961 hasta su asesinato en 1963. Durante su gobierno tuvo lugar la invasión de Bahía de Cochinos, la crisis de los misiles de Cuba, la construcción 
+del Muro de Berlín, el inicio de la carrera espacial y la consolidación del Movimiento por los Derechos Civiles en Estados Unidos, así como las primeras acciones de su país en la guerra de Vietnam. En 1962, abrió la puerta a la mayor guerra química de la historia.</font></td></h3></p>
+
+
+
+<p><center><h2> NÚMERO 1</h3></center></p><p></p><center><img src="freegod.jpg" widht=150 height=280</center><p><center><h2> NÚMERO 2</h3></center></p>
+<center><img src="CHOWER.jpeg" widht=150 height=280</center><p><center><h2> NÚMERO 3</h3></center></p><center><img src="LoMejorEsNoFiar.jpg" widht=150 height=280</center>
+
+<h1></h1>
+<h2></h2>
+<h3></h3>
+
+
+<h4><td><font color=gray face="impact">Saludos a Pablito Alemancito</font></td></h4>
+</body>
+</html>
